@@ -1,4 +1,4 @@
-# <img src="Streamlit.png" width=10%> Streamlit Sharing
+# <img src="Streamlit.png" width=5%> Streamlit Sharing
 
 ## Deploy, Manage, and Share Apps with the World.
 
